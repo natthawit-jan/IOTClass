@@ -1,0 +1,20 @@
+Task 4.2 
+
+
+Question 4 sub 2 
+Taks 2.1
+
+ around 35 mA
+
+Task 2.2
+
+3.2 V = I * (220 ohm)
+
+I = 3.2/220 * 8  = 0.116 A  = 116.34 mA.
+
+Task 2.3 
+	V = IR 
+
+	3.2 = I (1000)
+
+	I = 3.2  / 1000    =   0.0276 A = 25.66 mA
